@@ -1,10 +1,10 @@
-Bank Customer Data Analysis
+# Bank Customer Data Analysis
 
-Overview
+# Overview
 
 This project involves analyzing bank customer data using Python. The analysis leverages libraries such as pandas and numpy to process and explore the data. The notebook includes steps to clean, analyze, and visualize customer information for actionable insights.
 
-Features
+# Features
 
 Data cleaning and preprocessing
 
@@ -12,7 +12,7 @@ Statistical analysis of customer data
 
 Insights and trends visualization
 
-Requirements
+# Requirements
 
 To run the notebook, ensure you have the following Python libraries installed:
 
