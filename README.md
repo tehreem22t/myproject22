@@ -24,29 +24,43 @@ You can install the required libraries using:
 
 pip install pandas numpy
 
-Usage
+Requirements
 
-Clone this repository:
+To run the notebook, ensure you have the following Python libraries installed:
 
-git clone <repository-url>
+pandas
 
-Navigate to the project directory:
+numpy
 
-cd <project-directory>
+matplotlib
 
-Open the Jupyter notebook:
+seaborn
 
-jupyter notebook "bank customer data.ipynb"
+scikit-learn (if predictive analysis is included)
+
+You can install the required libraries using:
+
+pip install pandas numpy matplotlib seaborn scikit-learn
 
 Run the cells in sequence to perform the analysis.
+
+(Optional) Modify the notebook to add custom analyses or visualizations.
 
 Outputs
 
 The notebook generates insights such as:
 
-Key customer demographics
+Customer Demographics: Breakdown of age, gender, and income levels.
 
-Patterns in customer behavior
+Behavioral Analysis: Patterns in transaction frequency and product usage.
 
-Trends in bank services usage
+Service Trends: Insights into the most and least used banking services.
+
+Visualizations: Bar charts, histograms, scatter plots, and correlation heatmaps.
+
+Predictive Models: Optional outputs for customer churn predictions or segmentation.
+
+
+
+
 
